@@ -42,7 +42,7 @@ def whoWon(p1Result, p2Result)
 if p1Result == p2Result
   puts "its a draw!"
 else
-  puts "need to work out the best way of scoring"
+  puts "need to work out the best way of scoring and showing the result"
 end
 
 end
